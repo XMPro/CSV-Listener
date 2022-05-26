@@ -1,2 +1,4 @@
 XMPro.CSVAgents/obj/
 XMPro.CSVAgents/bin/
+*.lock
+*.vsidx
