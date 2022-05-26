@@ -5,7 +5,7 @@
 - Please see the [Manage Agents](https://documentation.xmpro.com/how-tos/manage-agents) guide for a better understanding of how the Agent Framework works
 
 ## Description
- The CSV listener allows the simulation of data for a data stream using a CSV file. 
+ The CSV listener allows you to return the contents of a CSV file one row at a time to simulate events in a data stream.
 
 ## How the code works
 All settings referred to in the code need to correspond with the settings defined in the template that has been created for the agent using the XMPro Package Manager. Refer to the [XMPro Package Manager](https://documentation.xmpro.com/agent/packaging-agents/) guide for instructions on how to define the settings in the template and package the agent after building the code. 
