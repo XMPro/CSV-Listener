@@ -200,7 +200,7 @@ else
 ### Decrypting Values
 This agent does not use any secure, automatically encrypted, values. There is no need to decrypt anything.
 
-### Custom Methods
+### Helper Methods
 This agent uses three helper methods. The first method helps convert the value in a specific column and row in a CSV file into the correct format. This method is used in conjunction with the *GetSystemType* method, which returns the correct system type, given the string name of a data type.
 
 ```csharp
